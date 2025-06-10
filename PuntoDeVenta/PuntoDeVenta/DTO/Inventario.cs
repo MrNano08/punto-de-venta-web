@@ -16,7 +16,6 @@ namespace PuntoDeVenta.DTO
         public string Observacion { get; set; }
 
         [JsonProperty("idProducto")]
-        [JsonIgnore]
         public int IdProducto { get; set; }
     }
 }

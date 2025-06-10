@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PuntoDeVenta.DTO
 {
@@ -8,13 +9,15 @@ namespace PuntoDeVenta.DTO
     {
         [JsonProperty("id")]
         [JsonIgnore]
-        public int Id { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int? Id { get; set; }
 
         [JsonProperty("fechaPedido")]
         public DateTime FechaPedido { get; set; }
 
         [JsonProperty("idProveedor")]
-        public int IdProveedor { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int? IdProveedor { get; set; }
 
         [JsonProperty("detalles")]
         public List<DetallePedidoDTO> Detalles { get; set; }
@@ -26,7 +29,8 @@ namespace PuntoDeVenta.DTO
         public int Id { get; set; }
 
         [JsonProperty("idPedido")]
-        public int IdPedido { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public int? IdPedido { get; set; }
 
         [JsonProperty("idProducto")]
         public int IdProducto { get; set; }

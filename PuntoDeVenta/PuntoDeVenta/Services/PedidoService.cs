@@ -24,8 +24,8 @@ namespace PuntoDeVenta.Services
 
             foreach (var d in detalles)
             {
-                d.IdPedido = pedido.Id;
-                await _context.DetallePedidos.AddAsync(d);
+                d.idPedido = pedido.Id;
+                await _context.DetallePedido.AddAsync(d);
             }
 
             await _context.SaveChangesAsync();
@@ -34,7 +34,7 @@ namespace PuntoDeVenta.Services
 
         public async Task<IEnumerable<DetallePedido>> GetDetalles(int pedidoId)
         {
-            return await _context.DetallePedidos.Where(d => d.IdPedido == pedidoId).ToListAsync();
+            return await _context.DetallePedido.Where(d => d.idPedido == pedidoId).ToListAsync();
         }
     }
 

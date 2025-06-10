@@ -10,7 +10,7 @@ namespace PuntoDeVenta.Data
             : base(options) { }
 
         public DbSet<Pedido> Pedido { get; set; }
-        public DbSet<DetallePedido> DetallePedidos { get; set; }
+        public DbSet<DetallePedido> DetallePedido { get; set; }
     }
 
     public class Pedido
@@ -27,9 +27,9 @@ namespace PuntoDeVenta.Data
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-        public int IdPedido { get; set; }
-        public int IdProducto { get; set; }
-        public int Cantidad { get; set; }
+        public int idDetallePedido { get; set; }
+        public int idPedido { get; set; }
+        public int idProducto { get; set; }
+        public int cantidad { get; set; }
     }
 }

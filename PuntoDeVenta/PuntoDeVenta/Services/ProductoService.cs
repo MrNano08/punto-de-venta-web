@@ -28,10 +28,14 @@ namespace PuntoDeVenta.Services
 
         public async Task<Producto> Add(Producto p)
         {
-            await _context.Producto.AddAsync(p);
-            await _context.SaveChangesAsync();
+            await _context.Database.ExecuteSqlRawAsync(
+                "INSERT INTO Producto (nombre, descripcion, tipo, precio, stock) VALUES ({0}, {1}, {2}, {3}, {4})",
+                p.Nombre, p.Descripcion, p.Tipo, p.Precio, p.Stock
+            );
+
             return p;
         }
+
 
         public async Task<Producto> Update(Producto p)
         {
