@@ -1,0 +1,11 @@
+@PuntoDeVenta_HostAddress = http://localhost:5148
+
+GET {{PuntoDeVenta_HostAddress}}/swagger/
+Accept: application/json
+
+###
+
+GET {{PuntoDeVenta_HostAddress}}/swagger/1
+Accept: application/json
+
+###

@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\inventariocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\dto\\dependiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\dto\\dependiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\dependientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\dependientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\facturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\productocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\ofertacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\ofertacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\facturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\facturacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\pedidocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\pedidocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\dependientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\dependientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\data\\auditoriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\data\\auditoriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\ofertaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\ofertaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\services\\dependienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\services\\dependienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\puntodeventa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\puntodeventa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\ofertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\ofertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\helpers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|c:\\users\\imrnano\\documents\\basesdedatos\\api\\puntodeventa\\puntodeventa\\puntodeventa.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{54EC8407-50CA-4B1E-9C19-1249B4E0FD0C}|PuntoDeVenta\\PuntoDeVenta.csproj|solutionrelative:puntodeventa\\puntodeventa.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\ProductoContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\ProductoContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\ProductoContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\ProductoContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:55:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FacturaService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\FacturaService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\FacturaService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\FacturaService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\FacturaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:15:21.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "startup.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\startup.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\startup.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\startup.cs",
+              "RelativeToolTip": "PuntoDeVenta\\startup.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:03:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependienteController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\DependienteController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\DependienteController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\DependienteController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\DependienteController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:27:30.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dependiente.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Dependiente.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Dependiente.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Dependiente.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Dependiente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:25:43.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Factura.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Factura.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Factura.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:14:18.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Inventario.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Inventario.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Inventario.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:20:45.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oferta.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Oferta.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Oferta.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Oferta.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Oferta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:23:19.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Pedido.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Pedido.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Pedido.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:18:02.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Producto.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\DTO\\Producto.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\DTO\\Producto.cs",
+              "RelativeToolTip": "PuntoDeVenta\\DTO\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:53:01.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventarioContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\InventarioContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\InventarioContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\InventarioContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\InventarioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:21:19.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OfertaContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\OfertaContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\OfertaContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\OfertaContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\OfertaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:23:45.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FacturaContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\FacturaContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\FacturaContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\FacturaContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\FacturaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:14:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\DependienteContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\DependienteContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\DependienteContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\DependienteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:26:34.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuditoriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\AuditoriaContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\AuditoriaContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\AuditoriaContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\AuditoriaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:32:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\PedidoService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:18:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\ProductoService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\ProductoService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADgvz0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:59:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PedidoContext.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\PedidoContext.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Data\\PedidoContext.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Data\\PedidoContext.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Data\\PedidoContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:18:24.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:22:17.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\appsettings.json",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\appsettings.json",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\appsettings.json",
+              "RelativeToolTip": "PuntoDeVenta\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T03:02:01.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OfertaService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\OfertaService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\OfertaService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\OfertaService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\OfertaService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:24:12.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\InventarioService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\InventarioService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\InventarioService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\InventarioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:21:45.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependienteService.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\DependienteService.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Services\\DependienteService.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Services\\DependienteService.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Services\\DependienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:27:01.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Program.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Program.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Program.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:06:12.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:15:48.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Helpers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Helpers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Helpers\\MappingProfile.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Helpers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:24:34.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PuntoDeVenta.csproj",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\PuntoDeVenta.csproj",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\PuntoDeVenta.csproj",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\PuntoDeVenta.csproj",
+              "RelativeToolTip": "PuntoDeVenta\\PuntoDeVenta.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T02:54:57.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:19:12.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OfertaController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\OfertaController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\OfertaController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\OfertaController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\OfertaController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:24:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "PuntoDeVenta\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:00:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PuntoDeVenta\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T03:44:18.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PuntoDeVenta.http",
+              "DocumentMoniker": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\PuntoDeVenta.http",
+              "RelativeDocumentMoniker": "PuntoDeVenta\\PuntoDeVenta.http",
+              "ToolTip": "C:\\Users\\iMrNano\\Documents\\BasesDeDatos\\API\\PuntoDeVenta\\PuntoDeVenta\\PuntoDeVenta.http",
+              "RelativeToolTip": "PuntoDeVenta\\PuntoDeVenta.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-09T03:43:02.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
