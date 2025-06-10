@@ -6,9 +6,7 @@ namespace PuntoDeVenta.DTO
 {
     public class FacturaDTO
     {
-        [JsonProperty("id")]
-        [JsonIgnore]
-        public int Id { get; set; }
+
 
         [JsonProperty("fecha")]
         public DateTime Fecha { get; set; }
@@ -17,7 +15,7 @@ namespace PuntoDeVenta.DTO
         public decimal Total { get; set; }
 
         [JsonProperty("idDependiente")]
-        public int IdDependiente { get; set; }
+        public int? IdDependiente { get; set; }
 
         [JsonProperty("detalles")]
         public List<DetalleFacturaDTO> Detalles { get; set; }
@@ -25,14 +23,14 @@ namespace PuntoDeVenta.DTO
 
     public class DetalleFacturaDTO
     {
-        [JsonProperty("id")]
-        public int Id { get; set; }
+        [JsonProperty("idDetaleFactura")]
+        public int? Id { get; set; }
 
         [JsonProperty("idFactura")]
-        public int IdFactura { get; set; }
+        public int? IdFactura { get; set; }
 
         [JsonProperty("idProducto")]
-        public int IdProducto { get; set; }
+        public int? IdProducto { get; set; }
 
         [JsonProperty("cantidad")]
         public int Cantidad { get; set; }

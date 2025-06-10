@@ -5,9 +5,6 @@ namespace PuntoDeVenta.DTO
 {
     public class OfertaDTO
     {
-        [JsonProperty("id")]
-        [JsonIgnore]
-        public int Id { get; set; }
 
         [JsonProperty("tipoOferta")]
         public string TipoOferta { get; set; }

@@ -20,17 +20,21 @@ namespace PuntoDeVenta.Services
         public async Task<Pedido> AddPedido(Pedido pedido, List<DetallePedido> detalles)
         {
             await _context.Pedido.AddAsync(pedido);
-            await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync(); // aquí EF usa OUTPUT, pero si no hay trigger en Pedido, no hay problema
 
             foreach (var d in detalles)
             {
                 d.idPedido = pedido.Id;
-                await _context.DetallePedido.AddAsync(d);
+
+                await _context.Database.ExecuteSqlRawAsync(@"
+            INSERT INTO DetallePedido (idPedido, idProducto, cantidad)
+            VALUES ({0}, {1}, {2})",
+                    d.idPedido, d.idProducto, d.cantidad);
             }
 
-            await _context.SaveChangesAsync();
             return pedido;
         }
+
 
         public async Task<IEnumerable<DetallePedido>> GetDetalles(int pedidoId)
         {

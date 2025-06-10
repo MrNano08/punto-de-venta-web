@@ -7,10 +7,6 @@ namespace PuntoDeVenta.DTO
 {
     public class PedidoDTO
     {
-        [JsonProperty("id")]
-        [JsonIgnore]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int? Id { get; set; }
 
         [JsonProperty("fechaPedido")]
         public DateTime FechaPedido { get; set; }
@@ -26,14 +22,13 @@ namespace PuntoDeVenta.DTO
     public class DetallePedidoDTO
     {
         [JsonProperty("id")]
-        public int Id { get; set; }
+        public int? Id { get; set; }
 
         [JsonProperty("idPedido")]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int? IdPedido { get; set; }
 
         [JsonProperty("idProducto")]
-        public int IdProducto { get; set; }
+        public int? IdProducto { get; set; }
 
         [JsonProperty("cantidad")]
         public int Cantidad { get; set; }

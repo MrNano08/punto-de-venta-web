@@ -4,9 +4,7 @@ namespace PuntoDeVenta.DTO
 {
     public class DependienteDTO
     {
-        [JsonProperty("id")]
-        [JsonIgnore]
-        public int Id { get; set; }
+
 
         [JsonProperty("nombre")]
         public string Nombre { get; set; }

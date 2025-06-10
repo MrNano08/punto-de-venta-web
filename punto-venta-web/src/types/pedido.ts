@@ -8,7 +8,7 @@ export interface DetallePedido {
   export interface Pedido {
     id?: number;
     fechaPedido: string;
-    idProveedor: number;
+    idProveedor?: number;
     detalles: DetallePedido[];
   }
   
