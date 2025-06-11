@@ -1,5 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using PuntoDeVenta.Data;
+
 
 namespace PuntoDeVenta.Services
 {
@@ -24,9 +27,14 @@ namespace PuntoDeVenta.Services
 
             foreach (var d in detalles)
             {
-                d.IdFactura = factura.Id;
-                await _context.DetalleFactura.AddAsync(d);
+                d.IdFactura = factura.IdFactura;
+
+                await _context.Database.ExecuteSqlRawAsync(@"
+        INSERT INTO DetalleFactura (IdFactura, IdProducto, Cantidad, PrecioUnitario)
+        VALUES ({0}, {1}, {2}, {3})",
+                    d.IdFactura, d.IdProducto, d.Cantidad, d.PrecioUnitario);
             }
+
 
             await _context.SaveChangesAsync();
             return factura;
