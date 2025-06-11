@@ -18,7 +18,8 @@ namespace PuntoDeVenta.Data
         [Key]
         [Column("idFactura")]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
+        public int? IdFactura { get; set; }
+
         public DateTime Fecha { get; set; }
         public decimal Total { get; set; }
         public int IdDependiente { get; set; }
@@ -28,9 +29,9 @@ namespace PuntoDeVenta.Data
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int Id { get; set; }
-        public int IdFactura { get; set; }
-        public int IdProducto { get; set; }
+        public int? IdDetalleFactura { get; set; }
+        public int? IdFactura { get; set; }
+        public int? IdProducto { get; set; }
         public int Cantidad { get; set; }
         public decimal PrecioUnitario { get; set; }
     }
